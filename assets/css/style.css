@@ -124,3 +124,20 @@ body {
         width: 90%;
     }
 }
+@media (max-width: 650px){
+    body {
+        background-color: #ffffff;
+    }
+    .container{
+        width: 90%;
+    }
+    .instagram-phone{
+        display: none;
+    }
+    .instagram-login{
+        width: 100%;
+    }
+    .group {
+        border: 1px solid transparent;
+    }
+}
